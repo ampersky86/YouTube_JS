@@ -1,1 +1,1 @@
-# intensive_JS
+# мини YouTube на JavaScript
